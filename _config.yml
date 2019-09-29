@@ -12,5 +12,8 @@ author:
   url:               
   email:             
 
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+
 
