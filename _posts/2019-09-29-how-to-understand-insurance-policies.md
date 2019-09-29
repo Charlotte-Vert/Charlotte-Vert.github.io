@@ -2,6 +2,7 @@
 layout: post
 title: How to Understand Insurance Policies as A Client? 如何读懂保险条款
 date: 2019-09-29 22:14:00 +0800
+Categories: Insurance
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
