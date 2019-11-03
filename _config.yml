@@ -16,4 +16,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
 
+disqus:
+  shortname: charlotte-vert
+
 
