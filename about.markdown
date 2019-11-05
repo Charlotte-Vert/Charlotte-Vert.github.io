@@ -14,6 +14,8 @@ I share about whatever I think might be beneficial to the general public.
 
 Bonne chance!
 
+<img src="/assets/pic.jpeg" alt="drawing" width="500)"/> -->
+
 <!-- to insert pictures-->
 <!-- <img src="/assets/pic.jpeg" alt="drawing" width="500)"/> -->
 <!-- ![](/assets/pic.jpeg) -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief Intro to Life Insurance in Singapore 新加坡寿险初介绍
-date: 2019-11-5 00:00:00 +0800
+date: 2019-11-05 16:03:00 +0800
 categories: Insurance
 ---
 
