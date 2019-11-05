@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-
-I share about whatever I think might be beneficial to the general public. 
+混迹于新加坡小岛的中国人。
 
 为了保证自己会更新，需要时时提醒自己：不用追求完美主义。写得差不多了就发出来，重点是要发出来！
+
+A mainland Chinese living in Singapore.
+
+I share about whatever I think might be beneficial to the general public. 
 
 Bonne chance!
 
